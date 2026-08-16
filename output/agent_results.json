@@ -1,0 +1,1530 @@
+{
+    "source1_history": [
+        {
+            "basicinfo": {
+                "company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "factory_address": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "model": "SUN-5K-G06P3-EU-AM2",
+                "variant": "P1",
+                "quality_standard": [
+                    "IEC 61727",
+                    "IEC 62116",
+                    "EN 50549",
+                    "IEC/EN 61000-6-1/2/3/4",
+                    "IEC/EN 62109-1",
+                    "IEC/EN 62109-2"
+                ]
+            },
+            "physicalinfo": {
+                "weight": 11.0,
+                "dimensions": "283\u00d7463\u00d7178 (Excluding connectors and brackets)",
+                "color": null,
+                "material": null
+            },
+            "inputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Max. DC Input Voltage",
+                        "value": "1100",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Start-up DC Input Voltage",
+                        "value": "140",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "MPPT Operating Range",
+                        "value": "120-1000",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Max. DC Input Current",
+                        "value": "20+20",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. Short Circuit Current",
+                        "value": "30+30",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Max. DC Input Power",
+                        "value": "6.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "outputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Rated Output Voltage/Range",
+                        "value": "3L/N/PE 220/380V, 230/400V 0.85Un-1.1Un (this may vary with grid standards)",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Rated AC Grid Output Current",
+                        "value": "7.6/7.3",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Current",
+                        "value": "8.4/8",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "DC Injection Current",
+                        "value": "<0.5%",
+                        "unit": "mA"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Rated Output Power",
+                        "value": "5",
+                        "unit": "kW"
+                    },
+                    {
+                        "parameter_name": "Max. Active Power",
+                        "value": "5.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "securityinfo": {
+                "warning": null,
+                "warranty_years": [
+                    "5 Years"
+                ],
+                "safety_guidelines": [
+                    "DC Reverse-Polarity Protection: Yes",
+                    "AC Short Circuit Protection: Yes",
+                    "AC Output Overcurrent Protection: Yes",
+                    "Output Overvoltage Protection: Yes",
+                    "Insulation Resistance Protection: Yes",
+                    "Ground Fault Monitoring: Yes",
+                    "Anti-islanding Protection: Yes",
+                    "Temperature Protection: Yes",
+                    "Integrated DC Switch: Yes",
+                    "Remote Software Upload: Yes",
+                    "Remote Change of Operating Parameters: Yes",
+                    "Surge Protection: DC Type II/AC Type II"
+                ],
+                "restrictions": null,
+                "temperature": null,
+                "operating_conditions": {
+                    "Running Temperature": "-25 to +60\u00b0C, >45\u00b0C Derating",
+                    "Operating Surroundings Humidity": "0-100%"
+                }
+            },
+            "features": [
+                {
+                    "title": "MPP Trackers",
+                    "content": "2 MPP trackers",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Efficiency",
+                    "content": "Max. efficiency up to 98.5%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Export Application",
+                    "content": "Zero export application, VSG application",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Monitoring",
+                    "content": "String intelligent monitoring (optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Output Voltage Range",
+                    "content": "Wide output voltage range",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Anti-PID Function",
+                    "content": "Anti-PID function (Optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Display",
+                    "content": "LCD1602",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Interface",
+                    "content": "RS485/RS232/Wifi/LAN",
+                    "importance_reason": null
+                }
+            ],
+            "additional_info": [
+                {
+                    "title": "No.of MPP Trackers",
+                    "content": "2",
+                    "importance_reason": null
+                },
+                {
+                    "title": "No.of Strings per MPP Tracker",
+                    "content": "1+1",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Rated Grid Frequency",
+                    "content": "50/60 (Optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Operating Phase",
+                    "content": "Three Phase",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Power Factor Adjustment Range",
+                    "content": "0.8 leading to 0.8 lagging",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Total Harmonics Current Distortion (THDi)",
+                    "content": "<3%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Grid Frequency Range",
+                    "content": "45-55 or 55-65 (Optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Max. Efficiency",
+                    "content": "98.2%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Euro Efficiency",
+                    "content": "97.5%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "MPPT Efficiency",
+                    "content": ">99%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Topology",
+                    "content": "Transformerless",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Internal Consumption",
+                    "content": "<1W (Night)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Ingress Protection",
+                    "content": "IP65",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Noise Emission (Typical)",
+                    "content": "<45 dB",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Cooling Concept",
+                    "content": "Free Cooling",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Permissible Altitude",
+                    "content": "4000",
+                    "importance_reason": null
+                }
+            ]
+        },
+        {
+            "basicinfo": {
+                "company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "factory_address": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "model": "SUN-5K-G06P3-EU-AM2",
+                "variant": "P1",
+                "quality_standard": [
+                    "IEC 61727",
+                    "IEC 62116",
+                    "EN 50549",
+                    "IEC/EN 61000-6-1/2/3/4",
+                    "IEC/EN 62109-1",
+                    "IEC/EN 62109-2"
+                ],
+                "source_quote": "Ningbo Deye Inverter Technology Co., Ltd."
+            },
+            "physicalinfo": {
+                "weight": 11.0,
+                "dimensions": "283\u00d7463\u00d7178",
+                "color": null,
+                "material": null
+            },
+            "inputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Max. DC Input Voltage",
+                        "value": "1100",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Start-up DC Input Voltage",
+                        "value": "140",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "MPPT Operating Range",
+                        "value": "120-1000",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Max. DC Input Current",
+                        "value": "20+20",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. Short Circuit Current",
+                        "value": "30+30",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Max. DC Input Power",
+                        "value": "6.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "outputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Rated Output Voltage/Range",
+                        "value": "3L/N/PE 220/380V, 230/400V 0.85Un-1.1Un (this may vary with grid standards)",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Rated AC Grid Output Current",
+                        "value": "7.6/7.3",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Current",
+                        "value": "8.4/8",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Rated Output Power",
+                        "value": "5",
+                        "unit": "kW"
+                    },
+                    {
+                        "parameter_name": "Max. Active Power",
+                        "value": "5.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "securityinfo": {
+                "warning": null,
+                "warranty_years": [
+                    "5 Years"
+                ],
+                "safety_guidelines": [
+                    "IEC 61727",
+                    "IEC 62116",
+                    "EN 50549",
+                    "IEC/EN 61000-6-1/2/3/4",
+                    "IEC/EN 62109-1",
+                    "IEC/EN 62109-2"
+                ],
+                "restrictions": null,
+                "temperature": null,
+                "operating_conditions": {
+                    "Running Temperature": "-25 to +60\u00b0C, >45\u00b0C Derating",
+                    "Operating Surroundings Humidity": "0-100%",
+                    "Permissible Altitude": "4000"
+                }
+            },
+            "features": [
+                {
+                    "title": "Display",
+                    "content": "LCD1602",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Interface",
+                    "content": "RS485/RS232/Wifi/LAN",
+                    "importance_reason": null
+                }
+            ],
+            "additional_info": [
+                {
+                    "title": "No.of MPP Trackers",
+                    "content": "2",
+                    "importance_reason": null
+                },
+                {
+                    "title": "No.of Strings per MPP Tracker",
+                    "content": "1+1",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Rated Grid Frequency",
+                    "content": "50/60 (Optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Operating Phase",
+                    "content": "Three Phase",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Power Factor Adjustment Range",
+                    "content": "0.8 leading to 0.8 lagging",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Total Harmonics Current Distortion (THDi)",
+                    "content": "<3%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "DC Injection Current",
+                    "content": "<0.5%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Grid Frequency Range",
+                    "content": "45-55 or 55-65 (Optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Max. Efficiency",
+                    "content": "98.2%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Euro Efficiency",
+                    "content": "97.5%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "MPPT Efficiency",
+                    "content": ">99%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "DC Reverse-Polarity Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "AC Short Circuit Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "AC Output Overcurrent Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Output Overvoltage Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Insulation Resistance Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Ground Fault Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Anti-islanding Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Temperature Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Integrated DC Switch",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Remote Software Upload",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Remote Change of Operating Parameters",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Surge Protection",
+                    "content": "DC Type II/AC Type II",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Topology",
+                    "content": "Transformerless",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Internal Consumption",
+                    "content": "<1W (Night)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Ingress Protection",
+                    "content": "IP65",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Noise Emission (Typical)",
+                    "content": "<45 dB",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Cooling Concept",
+                    "content": "Free Cooling",
+                    "importance_reason": null
+                }
+            ],
+            "layout_uncertainties": []
+        },
+        {
+            "basicinfo": {
+                "company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "factory_address": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "model": "SUN-5K-G06P3-EU-AM2",
+                "variant": "P1",
+                "quality_standard": [
+                    "IEC 61727, IEC 62116, EN 50549",
+                    "IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2"
+                ],
+                "source_quote": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "source_quote_model": "SUN-5K-G06P3-EU-AM2-P1",
+                "source_quote_variant": "SUN-5K-G06P3-EU-AM2-P1",
+                "source_quote_quality_standard": [
+                    "Grid Connection Standard IEC 61727, IEC 62116, EN 50549",
+                    "Safety/EMC Standard IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2"
+                ]
+            },
+            "physicalinfo": {
+                "weight": 11.0,
+                "dimensions": "283\u00d7463\u00d7178 (Excluding connectors and brackets)",
+                "color": null,
+                "material": null,
+                "source_quote_weight": "Weight (kg) 11",
+                "source_quote_dimensions": "Cabinet Size (WxHxD mm) 283\u00d7463\u00d7178 (Excluding connectors and brackets)"
+            },
+            "inputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Max. DC Input Voltage",
+                        "value": "1100",
+                        "unit": "V",
+                        "source_quote": "Max. DC Input Voltage (V) 1100"
+                    },
+                    {
+                        "parameter_name": "Start-up DC Input Voltage",
+                        "value": "140",
+                        "unit": "V",
+                        "source_quote": "Start-up DC Input Voltage (V) 140"
+                    },
+                    {
+                        "parameter_name": "MPPT Operating Range",
+                        "value": "120-1000",
+                        "unit": "V",
+                        "source_quote": "MPPT Operating Range (V) 120-1000"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Max. DC Input Current",
+                        "value": "20+20",
+                        "unit": "A",
+                        "source_quote": "Max. DC Input Current (A) 20+20"
+                    },
+                    {
+                        "parameter_name": "Max. Short Circuit Current",
+                        "value": "30+30",
+                        "unit": "A",
+                        "source_quote": "Max. Short Circuit Current (A) 30+30"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Max. DC Input Power",
+                        "value": "6.5",
+                        "unit": "kW",
+                        "source_quote": "Max. DC Input Power (kW) 6.5"
+                    }
+                ],
+                "additional_parameters": [
+                    {
+                        "parameter_name": "No.of MPP Trackers",
+                        "value": "2",
+                        "source_quote": "No.of MPP Trackers 2"
+                    },
+                    {
+                        "parameter_name": "No.of Strings per MPP Tracker",
+                        "value": "1+1",
+                        "source_quote": "No.of Strings per MPP Tracker 1+1"
+                    }
+                ]
+            },
+            "outputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Rated Output Voltage/Range",
+                        "value": "3L/N/PE 220/380V, 230/400V 0.85Un-1.1Un (this may vary with grid standards)",
+                        "unit": "V",
+                        "source_quote": "Rated Output Voltage/Range (V) 3L/N/PE 220/380V, 230/400V 0.85Un-1.1Un (this may vary with grid standards)"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Rated AC Grid Output Current",
+                        "value": "7.6/7.3",
+                        "unit": "A",
+                        "source_quote": "Rated AC Grid Output Current (A) 7.6/7.3"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Current",
+                        "value": "8.4/8",
+                        "unit": "A",
+                        "source_quote": "Max. AC Output Current (A) 8.4/8"
+                    },
+                    {
+                        "parameter_name": "DC Injection Current",
+                        "value": "<0.5%",
+                        "unit": "mA",
+                        "source_quote": "DC Injection Current (mA) <0.5%"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Rated Output Power",
+                        "value": "5",
+                        "unit": "kW",
+                        "source_quote": "Rated Output Power (kW) 5"
+                    },
+                    {
+                        "parameter_name": "Max. Active Power",
+                        "value": "5.5",
+                        "unit": "kW",
+                        "source_quote": "Max. Active Power (kW) 5.5"
+                    }
+                ],
+                "additional_parameters": [
+                    {
+                        "parameter_name": "Rated Grid Frequency",
+                        "value": "50/60 (Optional)",
+                        "unit": "Hz",
+                        "source_quote": "Rated Grid Frequency (Hz) 50/60 (Optional)"
+                    },
+                    {
+                        "parameter_name": "Operating Phase",
+                        "value": "Three Phase",
+                        "source_quote": "Operating Phase Three Phase"
+                    },
+                    {
+                        "parameter_name": "Power Factor Adjustment Range",
+                        "value": "0.8 leading to 0.8 lagging",
+                        "source_quote": "Power Factor Adjustment Range 0.8 leading to 0.8 lagging"
+                    },
+                    {
+                        "parameter_name": "Total Harmonics Current Distortion (THDi)",
+                        "value": "<3%",
+                        "source_quote": "Total Harmonics Current Distortion (THDi) <3%"
+                    },
+                    {
+                        "parameter_name": "Grid Frequency Range",
+                        "value": "45-55 or 55-65 (Optional)",
+                        "source_quote": "Grid Frequency Range 45-55 or 55-65 (Optional)"
+                    }
+                ]
+            },
+            "securityinfo": {
+                "warning": null,
+                "warranty_years": [
+                    "5 Years"
+                ],
+                "safety_guidelines": null,
+                "restrictions": null,
+                "temperature": null,
+                "operating_conditions": {
+                    "Running Temperature": "-25 to +60\u00b0C, >45\u00b0C Derating",
+                    "source_quote_running_temperature": "Running Temperature -25 to +60\u00b0C, >45\u00b0C Derating",
+                    "Operating Surroundings Humidity": "0-100%",
+                    "source_quote_operating_surroundings_humidity": "Operating Surroundings Humidity 0-100%"
+                },
+                "source_quote_warranty_years": "Warranty 5 Years"
+            },
+            "features": [
+                {
+                    "title": "MPP Trackers",
+                    "content": "2 MPP trackers",
+                    "importance_reason": null,
+                    "source_quote": "2 MPP trackers, Max. efficiency up to 98.5%"
+                },
+                {
+                    "title": "Max. Efficiency",
+                    "content": "up to 98.5%",
+                    "importance_reason": null,
+                    "source_quote": "2 MPP trackers, Max. efficiency up to 98.5%"
+                },
+                {
+                    "title": "Export Application",
+                    "content": "Zero export application, VSG application",
+                    "importance_reason": null,
+                    "source_quote": "Zero export application, VSG application"
+                },
+                {
+                    "title": "Monitoring",
+                    "content": "String intelligent monitoring (optional)",
+                    "importance_reason": null,
+                    "source_quote": "String intelligent monitoring (optional)"
+                },
+                {
+                    "title": "Output Voltage Range",
+                    "content": "Wide output voltage range",
+                    "importance_reason": null,
+                    "source_quote": "Wide output voltage range"
+                },
+                {
+                    "title": "Anti-PID Function",
+                    "content": "Anti-PID function (Optional)",
+                    "importance_reason": null,
+                    "source_quote": "Anti-PID function (Optional)"
+                },
+                {
+                    "title": "Display",
+                    "content": "LCD1602",
+                    "importance_reason": null,
+                    "source_quote": "Display LCD1602"
+                },
+                {
+                    "title": "Interface",
+                    "content": "RS485/RS232/Wifi/LAN",
+                    "importance_reason": null,
+                    "source_quote": "Interface RS485/RS232/Wifi/LAN"
+                },
+                {
+                    "title": "Topology",
+                    "content": "Transformerless",
+                    "importance_reason": null,
+                    "source_quote": "Topology Transformerless"
+                },
+                {
+                    "title": "Internal Consumption",
+                    "content": "<1W (Night)",
+                    "importance_reason": null,
+                    "source_quote": "Internal Consumption <1W (Night)"
+                },
+                {
+                    "title": "Ingress Protection",
+                    "content": "IP65",
+                    "importance_reason": null,
+                    "source_quote": "Ingress Protection IP65"
+                },
+                {
+                    "title": "Noise Emission (Typical)",
+                    "content": "<45 dB",
+                    "importance_reason": null,
+                    "source_quote": "Noise Emission (Typical) <45 dB"
+                },
+                {
+                    "title": "Cooling Concept",
+                    "content": "Free Cooling, Smart Cooling",
+                    "importance_reason": null,
+                    "source_quote": "Cooling Concept Free Cooling Smart Cooling"
+                },
+                {
+                    "title": "Permissible Altitude",
+                    "content": "4000",
+                    "importance_reason": null,
+                    "unit": "m",
+                    "source_quote": "Permissible Altitude (m) 4000"
+                },
+                {
+                    "title": "Surge Protection",
+                    "content": "DC Type II/AC Type II",
+                    "importance_reason": null,
+                    "source_quote": "Surge Protection DC Type II/AC Type II"
+                },
+                {
+                    "title": "DC Reverse-Polarity Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "DC Reverse-Polarity Protection Yes"
+                },
+                {
+                    "title": "AC Short Circuit Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "AC Short Circuit Protection Yes"
+                },
+                {
+                    "title": "AC Output Overcurrent Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "AC Output Overcurrent Protection Yes"
+                },
+                {
+                    "title": "Output Overvoltage Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Output Overvoltage Protection Yes"
+                },
+                {
+                    "title": "Insulation Resistance Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Insulation Resistance Protection Yes"
+                },
+                {
+                    "title": "Ground Fault Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Ground Fault Monitoring Yes"
+                },
+                {
+                    "title": "Anti-islanding Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Anti-islanding Protection Yes"
+                },
+                {
+                    "title": "Temperature Protection",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Temperature Protection Yes"
+                },
+                {
+                    "title": "Integrated DC Switch",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Integrated DC Switch Yes"
+                },
+                {
+                    "title": "Remote Software Upload",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Remote Software Upload Yes"
+                },
+                {
+                    "title": "Remote Change of Operating Parameters",
+                    "content": "Yes",
+                    "importance_reason": null,
+                    "source_quote": "Remote Change of Operating Parameters Yes"
+                }
+            ],
+            "additional_info": [
+                {
+                    "title": "Max. Efficiency (Euro)",
+                    "content": "97.5%",
+                    "importance_reason": null,
+                    "source_quote": "Euro Efficiency 97.5%"
+                },
+                {
+                    "title": "MPPT Efficiency",
+                    "content": ">99%",
+                    "importance_reason": null,
+                    "source_quote": "MPPT Efficiency >99%"
+                }
+            ],
+            "layout_uncertainties": [
+                {
+                    "field": "DC Injection Current",
+                    "description": "The 'DC Injection Current' row specifies '(mA)' in the parameter name, but the value is '<0.5%' which uses a percentage unit. The value was extracted literally as printed, and the unit from the parameter name was used."
+                }
+            ]
+        }
+    ],
+    "source2_history": [
+        {
+            "basicinfo": {
+                "company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "factory_address": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "model": "SUN-5K-G06P3-EU-AM2",
+                "variant": "5kW model",
+                "quality_standard": [
+                    "IEC 61727",
+                    "IEC 62116",
+                    "CEI 0-21",
+                    "EN 50549",
+                    "NRS 097",
+                    "RD 140",
+                    "UNE 217002",
+                    "OVE-Richtlinie R25",
+                    "G99",
+                    "VDE-AR-N 4105",
+                    "IEC/EN 61000-6-1/2/3/4",
+                    "IEC/EN 62109-1",
+                    "IEC/EN 62109-2"
+                ]
+            },
+            "physicalinfo": {
+                "weight": 11.0,
+                "dimensions": "283\u00d7463\u00d7178 (Excluding Connectors and Brackets)",
+                "color": null,
+                "material": null
+            },
+            "inputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Max. PV Input Voltage",
+                        "value": "1100",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Start-up Voltage",
+                        "value": "140",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "MPPT Voltage Range",
+                        "value": "120-1000",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Rated PV Input Voltage",
+                        "value": "600",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Max. Operating PV Input Current",
+                        "value": "13+13",
+                        "unit": "A",
+                        "source_quote": "Max. Operating PV Input Current (A) 13+13"
+                    },
+                    {
+                        "parameter_name": "Max. Input Short Circuit Current",
+                        "value": "19.5+19.5",
+                        "unit": "A",
+                        "source_quote": "Max. Input Short Circuit Current (A) 19.5+19.5"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Max. PV Input Power",
+                        "value": "6.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "outputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Rated Output Voltage/Range",
+                        "value": "220/380V, 230/400V",
+                        "unit": null
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Rated AC Output Current",
+                        "value": "7.6/7.3",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Current",
+                        "value": "8.4/8",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Rated AC Output Active Power",
+                        "value": "5",
+                        "unit": "kW"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Apparent Power",
+                        "value": "5.5",
+                        "unit": "kVA"
+                    }
+                ]
+            },
+            "securityinfo": {
+                "warning": null,
+                "warranty_years": [
+                    "5 Years"
+                ],
+                "safety_guidelines": null,
+                "restrictions": null,
+                "temperature": null,
+                "operating_conditions": {
+                    "Operating Temperature Range": "-25 to +60\u00b0C, >45\u00b0C Derating",
+                    "Permissible Ambient Humidity": "0-100%",
+                    "Permissible Altitude": "4000m"
+                }
+            },
+            "features": [
+                {
+                    "title": "MPP Trackers",
+                    "content": "2 MPP trackers",
+                    "importance_reason": "Key performance indicator for solar inverters."
+                },
+                {
+                    "title": "Max. Efficiency",
+                    "content": "up to 98.5%",
+                    "importance_reason": "Key performance indicator for solar inverters."
+                },
+                {
+                    "title": "Zero export application",
+                    "content": "VSG application",
+                    "importance_reason": "Indicates specific grid interaction capabilities."
+                },
+                {
+                    "title": "String intelligent monitoring",
+                    "content": "(optional)",
+                    "importance_reason": "Enhances system management and fault detection."
+                },
+                {
+                    "title": "Wide output voltage range",
+                    "content": null,
+                    "importance_reason": "Indicates flexibility in grid connection."
+                },
+                {
+                    "title": "Anti-PID function",
+                    "content": "(Optional)",
+                    "importance_reason": "Protects PV modules from Potential Induced Degradation."
+                }
+            ],
+            "additional_info": null,
+            "layout_uncertainties": []
+        },
+        {
+            "basicinfo": {
+                "company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "factory_address": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "model": "SUN-5K-G06P3-EU-AM2",
+                "variant": "5kW model",
+                "quality_standard": [
+                    "IEC 61727, IEC 62116, CEI 0-21, EN 50549, NRS 097, RD 140, UNE 217002, OVE-Richtlinie R25, G99, VDE-AR-N 4105",
+                    "IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2"
+                ],
+                "source_quote_company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "source_quote_factory_address": "Add: No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "source_quote_model": "SUN-5K-G06P3-EU-AM2",
+                "source_quote_variant": "SUN-5K-G06P3-EU-AM2"
+            },
+            "physicalinfo": {
+                "weight": 11.0,
+                "dimensions": "283\u00d7463\u00d7178 (Excluding Connectors and Brackets)",
+                "color": null,
+                "material": null
+            },
+            "inputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Max. PV Input Voltage",
+                        "value": "1100",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Start-up Voltage",
+                        "value": "140",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "MPPT Voltage Range",
+                        "value": "120-1000",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Rated PV Input Voltage",
+                        "value": "600",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Max. Operating PV Input Current",
+                        "value": "13+13",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. Input Short Circuit Current",
+                        "value": "19.5+19.5",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Max. PV Input Power",
+                        "value": "6.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "outputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Rated Output Voltage/Range",
+                        "value": "220/380V, 230/400V 0.85Un-1.1Un",
+                        "unit": null
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Rated AC Output Current",
+                        "value": "7.6/7.3",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Current",
+                        "value": "8.4/8",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Rated AC Output Active Power",
+                        "value": "5",
+                        "unit": "kW"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Apparent Power",
+                        "value": "5.5",
+                        "unit": "kVA"
+                    }
+                ]
+            },
+            "securityinfo": {
+                "warning": null,
+                "warranty_years": [
+                    "5 Years"
+                ],
+                "safety_guidelines": null,
+                "restrictions": null,
+                "temperature": null,
+                "operating_conditions": {
+                    "Operating Temperature Range": "-25 to +60\u00b0C, >45\u00b0C Derating",
+                    "Permissible Ambient Humidity": "0-100%",
+                    "Permissible Altitude": "4000m",
+                    "Noise": "<45",
+                    "Ingress Protection(IP) Rating": "IP 65",
+                    "Inverter Topology": "Non-Isolated",
+                    "Over Voltage Category": "OVC II(DC), OVC III(AC)",
+                    "Type of Cooling": "Natural Cooling"
+                }
+            },
+            "features": [
+                {
+                    "title": "MPP Trackers",
+                    "content": "2 MPP trackers, Max. efficiency up to 98.5%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Export Application",
+                    "content": "Zero export application, VSG application",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Monitoring",
+                    "content": "String intelligent monitoring (optional)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Output Voltage Range",
+                    "content": "Wide output voltage range",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Anti-PID function",
+                    "content": "Anti-PID function (Optional)",
+                    "importance_reason": null
+                }
+            ],
+            "additional_info": [
+                {
+                    "title": "No. of MPP Trackers/No. of Strings per MPP Tracker",
+                    "content": "2/1+1",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Grid Connection Form",
+                    "content": "3L/N/PE",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Rated Output Grid Frequency/Range",
+                    "content": "50/45-55, 60/55-65",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Power Factor Adjustment Range",
+                    "content": "0.8 leading to 0.8 lagging",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Total Current Harmonic Distortion THDI",
+                    "content": "<3%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "DC Injection Current",
+                    "content": "<0.5%In",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Max. Efficiency",
+                    "content": "98.2%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Euro Efficiency",
+                    "content": "97.6%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "MPPT Efficiency",
+                    "content": ">99%",
+                    "importance_reason": null
+                },
+                {
+                    "title": "DC Polarity Reverse Connection Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "AC Output Overcurrent Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "AC Output Overvoltage Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "AC Output Short Circuit Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Thermal Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "DC Terminal Insulation Impedance Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "DC Component Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Ground Fault Current Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Power Network Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Island Protection Monitoring",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Earth Fault Detection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Overvoltage Load Drop Protection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Residual Current (RCD) Detection",
+                    "content": "Yes",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Surge Protection Level",
+                    "content": "TYPE II(DC), TYPE II(AC)",
+                    "importance_reason": null
+                },
+                {
+                    "title": "Communication Interface",
+                    "content": "RS485/RS232/WiFi/LAN",
+                    "importance_reason": null
+                }
+            ],
+            "layout_uncertainties": []
+        },
+        {
+            "basicinfo": {
+                "company_name": "Ningbo Deye Inverter Technology Co., Ltd.",
+                "factory_address": "No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.",
+                "model": "SUN-5K-G06P3-EU-AM2",
+                "variant": "AM2",
+                "quality_standard": [
+                    "IEC 61727",
+                    "IEC 62116",
+                    "CEI 0-21",
+                    "EN 50549",
+                    "NRS 097",
+                    "RD 140",
+                    "UNE 217002",
+                    "OVE-Richtlinie R25",
+                    "G99",
+                    "VDE-AR-N 4105",
+                    "IEC/EN 61000-6-1/2/3/4",
+                    "IEC/EN 62109-1",
+                    "IEC/EN 62109-2"
+                ],
+                "source_quote": "Ningbo Deye Inverter Technology Co., Ltd."
+            },
+            "physicalinfo": {
+                "weight": 11.0,
+                "dimensions": "283\u00d7463\u00d7178 (Excluding Connectors and Brackets)",
+                "color": null,
+                "material": null
+            },
+            "inputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Max. PV Input Voltage",
+                        "value": "1100",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Start-up Voltage",
+                        "value": "140",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "MPPT Voltage Range",
+                        "value": "120-1000",
+                        "unit": "V"
+                    },
+                    {
+                        "parameter_name": "Rated PV Input Voltage",
+                        "value": "600",
+                        "unit": "V"
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Max. Operating PV Input Current",
+                        "value": "13+13",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. Input Short Circuit Current",
+                        "value": "19.5+19.5",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Max. PV Input Power",
+                        "value": "6.5",
+                        "unit": "kW"
+                    }
+                ]
+            },
+            "outputinfo": {
+                "voltage": [
+                    {
+                        "parameter_name": "Rated Output Voltage/Range",
+                        "value": "220/380V, 230/400V",
+                        "unit": null
+                    }
+                ],
+                "current": [
+                    {
+                        "parameter_name": "Rated AC Output Current",
+                        "value": "7.6/7.3",
+                        "unit": "A"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Current",
+                        "value": "8.4/8",
+                        "unit": "A"
+                    }
+                ],
+                "power": [
+                    {
+                        "parameter_name": "Rated AC Output Active Power",
+                        "value": "5",
+                        "unit": "kW"
+                    },
+                    {
+                        "parameter_name": "Max. AC Output Apparent Power",
+                        "value": "5.5",
+                        "unit": "kVA"
+                    }
+                ]
+            },
+            "securityinfo": {
+                "warning": null,
+                "warranty_years": [
+                    "5 Years"
+                ],
+                "safety_guidelines": null,
+                "restrictions": null,
+                "temperature": -25.0,
+                "operating_conditions": {
+                    "Permissible Ambient Humidity": "0-100%",
+                    "Permissible Altitude": "4000m"
+                }
+            },
+            "features": [
+                {
+                    "title": "MPP Trackers",
+                    "content": "2/1+1",
+                    "importance_reason": "Number of MPP Trackers/Strings per MPP Tracker"
+                },
+                {
+                    "title": "Max. Efficiency",
+                    "content": "98.2%",
+                    "importance_reason": "Efficiency rating"
+                },
+                {
+                    "title": "Euro Efficiency",
+                    "content": "97.6%",
+                    "importance_reason": "Efficiency rating"
+                },
+                {
+                    "title": "MPPT Efficiency",
+                    "content": ">99%",
+                    "importance_reason": "Efficiency rating"
+                },
+                {
+                    "title": "Grid Connection Form",
+                    "content": "3L/N/PE",
+                    "importance_reason": "Electrical configuration"
+                },
+                {
+                    "title": "Rated Output Grid Frequency/Range",
+                    "content": "50/45-55, 60/55-65",
+                    "importance_reason": "Grid compatibility"
+                },
+                {
+                    "title": "Power Factor Adjustment Range",
+                    "content": "0.8 leading to 0.8 lagging",
+                    "importance_reason": "Grid interaction capability"
+                },
+                {
+                    "title": "Total Current Harmonic Distortion THDI",
+                    "content": "<3%",
+                    "importance_reason": "Output power quality"
+                },
+                {
+                    "title": "DC Injection Current",
+                    "content": "<0.5%In",
+                    "importance_reason": "Output power quality"
+                },
+                {
+                    "title": "Noise",
+                    "content": "<45",
+                    "importance_reason": "Acoustic noise level"
+                },
+                {
+                    "title": "Ingress Protection(IP) Rating",
+                    "content": "IP 65",
+                    "importance_reason": "Environmental protection rating"
+                },
+                {
+                    "title": "Inverter Topology",
+                    "content": "Non-Isolated",
+                    "importance_reason": "Internal design characteristic"
+                },
+                {
+                    "title": "Over Voltage Category",
+                    "content": "OVC II(DC), OVC III(AC)",
+                    "importance_reason": "Safety classification"
+                },
+                {
+                    "title": "Type of Cooling",
+                    "content": "Natural Cooling",
+                    "importance_reason": "Cooling method"
+                }
+            ],
+            "additional_info": [
+                {
+                    "title": "Equipment Protection",
+                    "content": "DC Polarity Reverse Connection Protection: Yes, AC Output Overcurrent Protection: Yes, AC Output Overvoltage Protection: Yes, AC Output Short Circuit Protection: Yes, Thermal Protection: Yes, DC Terminal Insulation Impedance Monitoring: Yes, DC Component Monitoring: Yes, Ground Fault Current Monitoring: Yes, Power Network Monitoring: Yes, Island Protection Monitoring: Yes, Earth Fault Detection: Yes, Overvoltage Load Drop Protection: Yes, Residual Current (RCD) Detection: Yes",
+                    "importance_reason": "Comprehensive list of built-in safety and protection features."
+                },
+                {
+                    "title": "Surge Protection Level",
+                    "content": "TYPE II(DC), TYPE II(AC)",
+                    "importance_reason": "Indicates protection against power surges."
+                },
+                {
+                    "title": "Communication Interface",
+                    "content": "RS485/RS232/WiFi/LAN",
+                    "importance_reason": "Available communication protocols for monitoring and control."
+                }
+            ],
+            "layout_uncertainties": []
+        }
+    ],
+    "source1_url": "https://www.deyeinverter.com/deyeinverter/2023/10/07/datasheet_sun-4-12k-g06p3-eu-am2-p1_231007_en.pdf",
+    "source2_url": "https://www.deyeinverter.com/deyeinverter/2024/03/20/datasheet_sun-4-15k-g06p3-eu-am2_240318_en.pdf",
+    "target_model": "SUN-5K-G06P3-EU-AM2 (5kW model)",
+    "final_report": "**IMPORTANT: CRITICAL REVISION REQUIRED - CONFLICTS IDENTIFIED IN PRODUCT SPECIFICATIONS**\n\nRamesh, please be advised that a review of the provided 2023 and 2024 product data sheets for the SUN-5K-G06P3-EU-AM2 inverter has revealed significant, direct conflicts in several key technical specifications. These discrepancies must be resolved with the manufacturer or supplier before proceeding with import, as they impact product identity, performance, safety parameters, and potentially customs classification and local regulatory compliance in Nepal.\n\n---\n\n### **Trade & Compliance Report: Deye SUN-5K-G06P3-EU-AM2 Solar Inverter**\n\n**Target Model:** SUN-5K-G06P3-EU-AM2 (5kW model)\n\n---\n\n### **Section 1: Product Identity**\n\n*   **Model:** SUN-5K-G06P3-EU-AM2\n*   **Variant (2023 Source 1):** SUN-5K-G06P3-EU-AM2-P1\n*   **Variant (2024 Source 2):** AM2\n    *   **Conflict:** The variant designation differs between the two sources (`-P1` vs `AM2`). This requires clarification to ensure the correct product version is being referenced and imported.\n\n---\n\n### **Section 2: Manufacturer Identity**\n\n*   **Company Name:** Ningbo Deye Inverter Technology Co., Ltd.\n*   **Factory Address:** No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.\n\n---\n\n### **Section 3: Referenced Test Evidence (Quality Standards)**\n\nThe following quality and safety standards are referenced for the inverter model:\n\n*   **From 2023 Source 1:**\n    *   Grid Connection Standard: IEC 61727, IEC 62116, EN 50549\n    *   Safety/EMC Standard: IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2\n*   **From 2024 Source 2:**\n    *   IEC 61727, IEC 62116, CEI 0-21, EN 50549, NRS 097, RD 140, UNE 217002, OVE-Richtlinie R25, G99, VDE-AR-N 4105, IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2\n\n---\n\n### **Section 4: Comprehensive Field-by-Field Comparison Table**\n\n| Parameter                                     | 2023 Source 1 Value                                           | 2024 Source 2 Value                                     | Analysis                                                                                                                                                                                              |\n| :-------------------------------------------- | :------------------------------------------------------------ | :------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **Basic Info**                                |                                                               |                                                         |                                                                                                                                                                                                       |\n| Company Name                                  | Ningbo Deye Inverter Technology Co., Ltd.                     | Ningbo Deye Inverter Technology Co., Ltd.               | AGREE                                                                                                                                                                                                 |\n| Factory Address                               | No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China. | No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China. | AGREE                                                                                                                                                                                                 |\n| Model                                         | SUN-5K-G06P3-EU-AM2                                           | SUN-5K-G06P3-EU-AM2                                     | AGREE                                                                                                                                                                                                 |\n| Variant                                       | P1 (full name: SUN-5K-G06P3-EU-AM2-P1)                        | AM2                                                     | **CONFLICT**: Different variant specified.                                                                                                                                                            |\n| Quality Standard                              | IEC 61727, IEC 62116, EN 50549, IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2 | IEC 61727, IEC 62116, CEI 0-21, EN 50549, NRS 097, RD 140, UNE 217002, OVE-Richtlinie R25, G99, VDE-AR-N 4105, IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2 | ONLY ONE SOURCE (2024 lists more standards, but 2023 standards are a subset of 2024's list).                                                                                                         |\n| **Physical Info**                             |                                                               |                                                         |                                                                                                                                                                                                       |\n| Weight                                        | 11.0 kg                                                       | 11.0 kg                                                 | AGREE                                                                                                                                                                                                 |\n| Dimensions (WxHxD)                            | 283\u00d7463\u00d7178 (Excluding connectors and brackets)               | 283\u00d7463\u00d7178 (Excluding Connectors and Brackets)         | AGREE (minor casing difference in 'Connectors and Brackets')                                                                                                                                          |\n| **Input Info**                                |                                                               |                                                         |                                                                                                                                                                                                       |\n| Max. DC Input Voltage                         | 1100 V                                                        | 1100 V (as Max. PV Input Voltage)                       | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Start-up DC Input Voltage                     | 140 V                                                         | 140 V (as Start-up Voltage)                             | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| MPPT Operating Range                          | 120-1000 V                                                    | 120-1000 V (as MPPT Voltage Range)                      | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Rated PV Input Voltage                        | N/A                                                           | 600 V                                                   | ONLY ONE SOURCE (2024)                                                                                                                                                                                |\n| Max. DC Input Current                         | 20+20 A                                                       | 13+13 A (as Max. Operating PV Input Current)            | **CRITICAL CONFLICT**: Values differ significantly.                                                                                                                                                   |\n| Max. Short Circuit Current                    | 30+30 A                                                       | 19.5+19.5 A (as Max. Input Short Circuit Current)       | **CRITICAL CONFLICT**: Values differ significantly.                                                                                                                                                   |\n| Max. DC Input Power                           | 6.5 kW                                                        | 6.5 kW (as Max. PV Input Power)                         | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| No. of MPP Trackers                           | 2                                                             | 2/1+1 (as MPP Trackers)                                 | AGREE (2024 adds strings per tracker)                                                                                                                                                                 |\n| No. of Strings per MPP Tracker                | 1+1                                                           | 2/1+1 (part of MPP Trackers)                            | AGREE (2024 combines with MPP Trackers)                                                                                                                                                               |\n| **Output Info**                               |                                                               |                                                         |                                                                                                                                                                                                       |\n| Rated Output Voltage/Range                    | 3L/N/PE 220/380V, 230/400V 0.85Un-1.1Un (this may vary with grid standards) | 220/380V, 230/400V                                      | AGREE (2023 provides more detail on range and grid dependency)                                                                                                                                         |\n| Rated AC Grid Output Current                  | 7.6/7.3 A                                                     | 7.6/7.3 A (as Rated AC Output Current)                  | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Max. AC Output Current                        | 8.4/8 A                                                       | 8.4/8 A                                                 | AGREE                                                                                                                                                                                                 |\n| DC Injection Current                          | <0.5% (unit mA in parameter name)                             | <0.5%In                                                 | **CONFLICT**: Unit representation and phrasing differ, potentially indicating ambiguity or different measurement bases.                                                                             |\n| Rated Output Power                            | 5 kW                                                          | 5 kW (as Rated AC Output Active Power)                  | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Max. Active Power                             | 5.5 kW                                                        | 5.5 kVA (as Max. AC Output Apparent Power)              | **CONFLICT**: 2023 specifies 'Active Power' in kW, 2024 specifies 'Apparent Power' in kVA. While numerically similar, they represent different electrical quantities.                               |\n| Rated Grid Frequency                          | 50/60 (Optional) Hz                                           | 50/45-55, 60/55-65 (as Rated Output Grid Frequency/Range) | AGREE (2024 provides more detail on range)                                                                                                                                                            |\n| Operating Phase                               | Three Phase                                                   | 3L/N/PE (as Grid Connection Form)                       | AGREE (different phrasing for the same concept)                                                                                                                                                       |\n| Power Factor Adjustment Range                 | 0.8 leading to 0.8 lagging                                    | 0.8 leading to 0.8 lagging                              | AGREE                                                                                                                                                                                                 |\n| Total Harmonics Current Distortion (THDi)     | <3%                                                           | <3% (as Total Current Harmonic Distortion THDI)         | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Grid Frequency Range                          | 45-55 or 55-65 (Optional)                                     | 50/45-55, 60/55-65 (part of Rated Output Grid Frequency/Range) | AGREE (2024 combines with Rated Grid Frequency)                                                                                                                                                       |\n| **Security Info**                             |                                                               |                                                         |                                                                                                                                                                                                       |\n| Warranty Years                                | 5 Years                                                       | 5 Years                                                 | AGREE                                                                                                                                                                                                 |\n| Running Temperature                           | -25 to +60\u00b0C, >45\u00b0C Derating                                  | -25.0\u00b0C (as 'temperature')                              | **CONFLICT**: 2024 only captures the lower bound and misses the upper bound and derating information.                                                                                                 |\n| Operating Surroundings Humidity               | 0-100%                                                        | 0-100% (as Permissible Ambient Humidity)                | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Permissible Altitude                          | 4000 m                                                        | 4000m                                                   | AGREE (minor formatting difference in unit)                                                                                                                                                           |\n| **Features**                                  |                                                               |                                                         |                                                                                                                                                                                                       |\n| Max. Efficiency                               | up to 98.5%                                                   | 98.2%                                                   | **CONFLICT**: Values differ.                                                                                                                                                                          |\n| Euro Efficiency                               | 97.5% (as Max. Efficiency (Euro))                             | 97.6%                                                   | **CONFLICT**: Values differ.                                                                                                                                                                          |\n| MPPT Efficiency                               | >99%                                                          | >99%                                                    | AGREE                                                                                                                                                                                                 |\n| Export Application                            | Zero export application, VSG application                      | N/A                                                     | ONLY ONE SOURCE (2023)                                                                                                                                                                                |\n| Monitoring                                    | String intelligent monitoring (optional)                      | N/A                                                     | ONLY ONE SOURCE (2023)                                                                                                                                                                                |\n| Wide Output Voltage Range                     | Yes                                                           | N/A                                                     | ONLY ONE SOURCE (2023, as \"Wide output voltage range\")                                                                                                                                                |\n| Anti-PID Function                             | Yes (Optional)                                                | N/A                                                     | ONLY ONE SOURCE (2023, as \"Anti-PID function (Optional)\")                                                                                                                                             |\n| Display                                       | LCD1602                                                       | N/A                                                     | ONLY ONE SOURCE (2023)                                                                                                                                                                                |\n| Interface                                     | RS485/RS232/Wifi/LAN                                          | RS485/RS232/WiFi/LAN (as Communication Interface)       | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Topology                                      | Transformerless                                               | Non-Isolated (as Inverter Topology)                     | **CONFLICT**: Terminology differs, though \"Transformerless\" and \"Non-Isolated\" are generally synonymous for inverters. Clarification on exact terminology used by manufacturer is recommended.      |\n| Internal Consumption (Night)                  | <1W                                                           | N/A                                                     | ONLY ONE SOURCE (2023)                                                                                                                                                                                |\n| Ingress Protection                            | IP65                                                          | IP 65 (as Ingress Protection(IP) Rating)                | AGREE (minor formatting difference)                                                                                                                                                                   |\n| Noise Emission (Typical)                      | <45 dB                                                        | <45 (as Noise)                                          | **CONFLICT**: Unit missing in 2024, creating ambiguity, though numerical value is consistent assuming dB.                                                                                             |\n| Cooling Concept                               | Free Cooling, Smart Cooling                                   | Natural Cooling (as Type of Cooling)                    | **CONFLICT**: Descriptions differ and may imply different cooling mechanisms.                                                                                                                         |\n| Surge Protection                              | DC Type II/AC Type II                                         | TYPE II(DC), TYPE II(AC) (as Surge Protection Level)    | AGREE (minor phrasing difference)                                                                                                                                                                     |\n| DC Reverse-Polarity Protection                | Yes                                                           | Yes (as DC Polarity Reverse Connection Protection)      | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| AC Short Circuit Protection                   | Yes                                                           | Yes (as AC Output Short Circuit Protection)             | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| AC Output Overcurrent Protection              | Yes                                                           | Yes                                                     | AGREE                                                                                                                                                                                                 |\n| Output Overvoltage Protection                 | Yes                                                           | Yes (as AC Output Overvoltage Protection)               | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Insulation Resistance Protection              | Yes                                                           | Yes (as DC Terminal Insulation Impedance Monitoring)    | AGREE (different phrasing for similar function)                                                                                                                                                       |\n| Ground Fault Monitoring                       | Yes                                                           | Yes (as Ground Fault Current Monitoring, Earth Fault Detection) | AGREE (2024 provides more specific terms)                                                                                                                                                             |\n| Anti-islanding Protection                     | Yes                                                           | Yes (as Island Protection Monitoring)                   | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Temperature Protection                        | Yes                                                           | Yes (as Thermal Protection)                             | AGREE (parameter name differs slightly)                                                                                                                                                               |\n| Integrated DC Switch                          | Yes                                                           | N/A (not explicitly listed as separate item)            | ONLY ONE SOURCE (2023). While 2024 lists general \"Equipment Protection,\" an explicit DC switch is not confirmed.                                                                                       |\n| Remote Software Upload                        | Yes                                                           | N/A                                                     | ONLY ONE SOURCE (2023)                                                                                                                                                                                |\n| Remote Change of Operating Parameters         | Yes                                                           | N/A                                                     | ONLY ONE SOURCE (2023)                                                                                                                                                                                |\n| Over Voltage Category                         | N/A                                                           | OVC II(DC), OVC III(AC)                                 | ONLY ONE SOURCE (2024)                                                                                                                                                                                |\n| DC Component Monitoring                       | N/A                                                           | Yes                                                     | ONLY ONE SOURCE (2024)                                                                                                                                                                                |\n| Power Network Monitoring                      | N/A                                                           | Yes                                                     | ONLY ONE SOURCE (2024)                                                                                                                                                                                |\n| Overvoltage Load Drop Protection              | N/A                                                           | Yes                                                     | ONLY ONE SOURCE (2024)                                                                                                                                                                                |\n| Residual Current (RCD) Detection              | N/A                                                           | Yes                                                     | ONLY ONE SOURCE (2024)                                                                                                                                                                                |\n\n---\n\n### **Section 5: Technical Interpretation**\n\nThe differing values for \"Max. DC Input Current\" (20+20 A in 2023 vs. 13+13 A in 2024) and \"Max. Short Circuit Current\" (30+30 A in 2023 vs. 19.5+19.5 A in 2024) are critical. The 2023 data indicates a significantly higher current handling capability than the 2024 data. **If the 2024 specifications are accurate, connecting solar panels that can produce currents exceeding 13A per string (or 19.5A short-circuit) to this inverter would pose a serious safety risk, potentially leading to equipment damage, fire, or electric shock.** This difference of 7A per string in maximum operating current and 10.5A per string in short-circuit current is substantial and could have severe implications for system design, safety, and warranty.\n\nThe IP65 Ingress Protection rating (consistent across both sources) indicates that the inverter is protected against dust ingress and low-pressure water jets from any direction. This means it is suitable for outdoor installation where it may be exposed to rain and dust, but not for submersion or high-pressure water.\n\nThe conflicting terminology for \"Max. Active Power\" (2023) vs. \"Max. AC Output Apparent Power\" (2024) is also important. Active power (kW) is the real power consumed by a load, while apparent power (kVA) is the total power flowing in an AC circuit. While numerically similar in this instance (5.5 kW vs 5.5 kVA), it's crucial to confirm which rating is the actual limit for sustained operation and grid export, as kVA includes reactive power and is typically higher than or equal to kW.\n\nThe discrepancies in efficiency ratings (Max. Efficiency and Euro Efficiency) suggest either product revisions or different testing methodologies between the two data sheets. While these might not be safety-critical, they affect performance expectations and financial projections for energy yield. Similarly, the differing cooling concepts (\"Free Cooling, Smart Cooling\" vs. \"Natural Cooling\") could impact the inverter's thermal management and long-term reliability in varying ambient temperatures.\n\n---\n\n### **Section 6: Labeling Requirements**\n\nBased on the provided data, the product label should include, at a minimum:\n\n*   **Manufacturer:** Ningbo Deye Inverter Technology Co., Ltd.\n*   **Model:** SUN-5K-G06P3-EU-AM2\n*   **Variant:** This is a point of conflict (P1 vs AM2). The label must accurately reflect the specific variant being imported.\n*   **Ratings (Confirm based on resolved conflicts):**\n    *   Rated AC Output Active Power: 5 kW\n    *   Max. AC Output Current: 8.4/8 A\n    *   Max. DC Input Voltage: 1100 V\n    *   Max. DC Input Current: **[Requires clarification due to conflict: 20+20 A or 13+13 A]**\n    *   MPPT Operating Range: 120-1000 V\n    *   Rated Output Voltage/Range: 220/380V, 230/400V\n    *   Rated Grid Frequency: 50/60 Hz\n*   **Ingress Protection (IP) Rating:** IP65\n*   **Warranty:** 5 Years\n*   **Manufacturing Address:** No. 26 South YongJiang Road, Daqi, Beilun, NingBo, Zhejiang, China.\n\n---\n\n### **Section 7: Layout Uncertainties**\n\nThe following document parsing ambiguities were detected:\n\n*   **DC Injection Current:** The 2023 source specifies '(mA)' in the parameter name, but the value is '<0.5%' which uses a percentage unit. The value was extracted literally as printed, and the unit from the parameter name was used. The 2024 source lists '<0.5%In', which clarifies it as a percentage of rated current, but the initial ambiguity remains a conflict in unit representation.\n\n---\n\n### **Section 8: Importer Paperwork Note for Nepal**\n\nBased solely on the provided data, specific Nepal-related registration or paperwork requirements cannot be determined. The 2024 source does list \"NRS 097\" as a referenced standard, which might be relevant for Nepal. However, this report cannot confirm if this standard is mandatory for import or if there are other local certifications, type approvals, or import permits required by Nepalese authorities (e.g., Nepal Electricity Authority, Department of Standards and Metrology) for solar inverters. Ramesh's Nepal import agent must verify all current local regulatory and customs requirements for solar inverters, including mandatory certifications and documentation.",
+    "review_result": {
+        "review_passed": false,
+        "instruction": "The data for the target model SUN-5K-G06P3-EU-AM2 contains conflicts. Please review the identified conflicts below and update the data to ensure consistency and accuracy.",
+        "conflicts": [
+            "The 'variant' in Data 1 is 'P1', while in Data 2 it is 'AM2'. This is a direct conflict.",
+            "Data 1's 'inputinfo.current.Max. DC Input Current' is '20+20 A', while Data 2's 'inputinfo.current.Max. Operating PV Input Current' is '13+13 A'. These values conflict.",
+            "Data 1's 'inputinfo.current.Max. Short Circuit Current' is '30+30 A', while Data 2's 'inputinfo.current.Max. Input Short Circuit Current' is '19.5+19.5 A'. These values conflict.",
+            "Data 1's 'outputinfo.current.DC Injection Current' is '<0.5%', while Data 2's 'features.DC Injection Current' is '<0.5%In'. The units and phrasing differ, potentially indicating a conflict or ambiguity regarding the exact specification.",
+            "Data 1's 'securityinfo.operating_conditions.Running Temperature' is '-25 to +60\u00b0C, >45\u00b0C Derating', while Data 2's 'securityinfo.temperature' is -25.0\u00b0C. Data 2 seems to only capture the lower bound, and misses the upper bound and derating information.",
+            "Data 1's 'features.Max. Efficiency' is 'up to 98.5%', while Data 2's 'features.Max. Efficiency' is '98.2%'. These values conflict.",
+            "Data 1's 'additional_info.Max. Efficiency (Euro)' is '97.5%', while Data 2's 'features.Euro Efficiency' is '97.6%'. These values conflict.",
+            "Data 1's 'features.Cooling Concept' is 'Free Cooling, Smart Cooling', while Data 2's 'features.Type of Cooling' is 'Natural Cooling'. These descriptions differ and may conflict.",
+            "Data 1's 'features.Topology' is 'Transformerless', while Data 2's 'features.Inverter Topology' is 'Non-Isolated'. While 'Transformerless' and 'Non-Isolated' generally refer to the same concept in inverters, the terminology differs.",
+            "Data 1's 'features.Noise Emission (Typical)' is '<45 dB', while Data 2's 'features.Noise' is '<45'. The units are missing in Data 2, creating an ambiguity, though the numerical value is consistent assuming dB.",
+            "Data 1 lists several protection features individually (e.g., 'AC Short Circuit Protection: Yes', 'Output Overvoltage Protection: Yes'), whereas Data 2 groups many under 'additional_info.Equipment Protection'. While the presence of protections seems largely consistent, the structure and detail level differ, requiring careful cross-verification to ensure no specific protection is missed or misrepresented. For instance, Data 1 has 'Integrated DC Switch: Yes', which is not explicitly listed as a separate item in Data 2's 'Equipment Protection' but might be implied or covered differently.",
+            "Data 1's 'features.Permissible Altitude' is '4000 m', while Data 2's 'securityinfo.operating_conditions.Permissible Altitude' is '4000m'. The formatting of the unit differs slightly.",
+            "Data 1's 'outputinfo.current.DC Injection Current' has a unit of 'mA' specified in the parameter name but a value '<0.5%' which uses a percentage unit. Data 2's 'features.DC Injection Current' is '<0.5%In'. This indicates an inconsistency in unit representation and potentially the value itself, as '%In' implies a percentage of the rated current, whereas '<0.5%' without context could be ambiguous."
+        ]
+    },
+    "loop_count": 2,
+    "max_loops": 2
+}
